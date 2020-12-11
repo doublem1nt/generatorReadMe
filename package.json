@@ -1,14 +1,22 @@
 {
-  "name": "Develop",
+  "name": "generatorReadMe",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doublem1nt/generatorReadMe.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doublem1nt/generatorReadMe/issues"
+  },
+  "homepage": "https://github.com/doublem1nt/generatorReadMe#readme",
   "dependencies": {
     "inquirer": "^7.3.3"
   }
